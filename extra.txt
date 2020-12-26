@@ -1,0 +1,8 @@
+--> git remote -v
+-> for url verifying. (same or not)
+
+--> ls -la
+-> to see which file is created.
+
+--> git fetch 
+-> it takes changes but not saves, for saving run --> git pull

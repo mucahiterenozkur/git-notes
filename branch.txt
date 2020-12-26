@@ -1,0 +1,18 @@
+--> git branch -m dev devtest
+-> it changes the name of an existing branch
+
+--> git branch <branch_name>
+-> creates a branch
+
+--> git checkout -b <branch_name>
+-> creates a branch and goes to that branch
+
+--> git checkout <branch_name>
+-> changing the branch where you want to work.
+
+--> git branch -a 
+-> shows all branches
+
+--> git branch --delete <branch_name>
+-> deletes the branch name given 'if you are in another branch'
+  
