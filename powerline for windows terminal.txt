@@ -1,0 +1,25 @@
+https://www.youtube.com/watch?v=lu__oGZVT98&t=803s
+
+
+-Set up Powerline in PowerShell-
+Install-Module posh-git -Scope CurrentUser
+Install-Module oh-my-posh -Scope CurrentUser
+
+
+-Customize it-
+Import-Module posh-git
+Import-Module oh-my-posh
+Set-Theme Paradox
+
+
+
+In settings, there should be a part like that.
+
+{
+    // Make changes here to the powershell.exe profile.
+    "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+    "name": "Windows PowerShell",
+    "commandline": "powershell.exe",
+    "fontFace": "Cascadia Code PL",
+    "hidden": false
+},
