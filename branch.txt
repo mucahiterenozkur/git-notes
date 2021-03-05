@@ -15,4 +15,7 @@
 
 --> git branch --delete <branch_name>
 -> deletes the branch name given 'if you are in another branch'
+
+--> git branch -d <branch_name>
+-> deletes the branch name given 'if you are in another branch'
   
