@@ -18,4 +18,9 @@
 
 --> git branch -d <branch_name>
 -> deletes the branch name given 'if you are in another branch'
+
+--> git branch -m <older_branch_name> <new_branch_name>
+-> change the name of any branch
   
+--> git branch -m <new_branch_name>
+-> change the branch name where you at
